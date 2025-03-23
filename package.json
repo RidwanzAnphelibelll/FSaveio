@@ -1,6 +1,6 @@
    {
      "name": "fsaveio",
-     "version": "1.0.0",
+     "version": "1.5.0",
      "description": "A Node.js library for downloading media from various social media platforms.",
      "main": "index.js",
 
