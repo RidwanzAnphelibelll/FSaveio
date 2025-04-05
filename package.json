@@ -1,6 +1,6 @@
    {
      "name": "fsaveio",
-     "version": "1.5.0",
+     "version": "0.0.1",
      "description": "A Node.js library for downloading media from various social media platforms.",
      "main": "index.js",
 
@@ -15,6 +15,7 @@
      
      "dependencies": {
        "cheerio": "^1.0.0-rc.12",
+       "form-data": "^4.0.2",
        "got": "^11.8.6"
      },
 
